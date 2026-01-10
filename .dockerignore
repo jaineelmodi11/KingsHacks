@@ -1,0 +1,7 @@
+.env
+backend/data/
+__pycache__/
+*.pyc
+.venv/
+.conda/
+.DS_Store
